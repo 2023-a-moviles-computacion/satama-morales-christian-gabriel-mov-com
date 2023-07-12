@@ -4,7 +4,9 @@ import java.io.FileReader
 import java.io.IOException
 import java.nio.file.Paths
 import kotlin.system.exitProcess
-
+/*
+* AUTHOR: Christian Satama Morales
+*/
 class Controlador{
 
     var identificador: Int?=null
