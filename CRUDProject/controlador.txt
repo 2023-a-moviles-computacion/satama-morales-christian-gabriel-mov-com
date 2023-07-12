@@ -1,0 +1,15 @@
+Controlador{
+identificador: 1,
+nombre: drivermouse,
+Última fecha de instalación: q,
+version del controlador: 1.1,
+Activo: true
+},
+Controlador{
+identificador: 1,
+nombre: b,
+Última fecha de instalación: q,
+version del controlador: 1.4,
+Activo: true
+},
+
