@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SmartAlarm-master.iml" filepath="$PROJECT_DIR$/.idea/SmartAlarm-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SmartAlarm-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SmartAlarm-master.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SmartAlarm-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SmartAlarm-master.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SmartAlarm-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SmartAlarm-master.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SmartAlarm-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SmartAlarm-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Proyecto IIB.iml" filepath="$PROJECT_DIR$/.idea/Proyecto IIB.iml" />
     </modules>
   </component>
 </project>
