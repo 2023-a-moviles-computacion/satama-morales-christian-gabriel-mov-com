@@ -1,0 +1,59 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">SmartAlarm</string>
+    <string name="action_settings">Configuración</string>
+    <string name="displayAlarmActivity_bSnooze">Siesta</string>
+    <string name="AN_snoozeContentText">Hola, escribe aqui un mensaje</string>
+    <string name="AN_snoozeContentTitle">Alarma Inteligente</string>
+    <string name="AN_snoozeTicker">Resuelva el juego para posponer</string>
+    <string name="AN_snoozeAction">Posponer</string>
+    <string name="AN_dismissContentTitle">Alarma Inteligente</string>
+    <string name="AN_dismissActionText">descartar</string>
+    <string name="AN_dismissContentText">La alarma ha sido encendida<xliff:g id="alarmSetTime">%s</xliff:g></string>
+    <string name="settingsPreviewTitle">Atras</string>
+    <string name="settingsPreviewPositiveButtonText">Confirmar</string>
+    <string name="settingsPreviewNegativeButtonText">Atras</string>
+    <string name="MAP_Toast_timeLeftToAlarmStart">Hasta que comience la alarma: <xliff:g id="timeToAlarmStartToast">%s</xliff:g></string>
+    <string name="yes">Si</string>
+    <string name="letsDoIt">Hagámoslo</string>
+    <string name="back">Atras</string>
+    <string name="helpingMessageOne">La próxima vez verás  \ntu última alarma configurada allí.</string>
+    <string name="helpingMessageTwo">Entonces, para configurar la alarma en el futuro (con el viejo \nconfiguración) simplemente haga clic en el botón circular.</string>
+    <string name="helperFirstDialogMessage">Hola, si quieres ver cómo funciona la alarma, sigue el texto que aparece y tócalo para continuar.</string>
+    <string name="helperFirstDialogTitle">Ayuda</string>
+    <string name="timeUntilAlarmBoom">La alarma sonará después de: <xliff:g id="hoursUntilAlarmBoom">%1$d</xliff:g> h. <xliff:g id="minutesUntilAlarmBoom">%2$d</xliff:g> min.</string>
+    <string name="blockedButtonMessage">Hola, esta opción es la última :(, intenta moverte en otra dirección.</string>
+    <string name="helperHideDialogTitle">¿Quieres continuar sin mensajes de ayuda?</string>
+    <string name="alarmTimeLimitationMessage">Recuerda, puedes configurar la alarma solo para las próximas 23 horas y 59 minutos</string>
+    <string name="contentDescription_playRingtone">Reproducir tono de llamada</string>
+    <string name="contentDescription_pauseRingtone">Pausar tono de llamada</string>
+    <string name="hint_for_tvSetAlarmMessage">Escriba aquí algún mensaje para usted (aparecerá en la pantalla de alarma).</string>
+    <string name="toast_message_was_saved">El mensaje se guardó correctamente.</string>
+    <string name="preview_dialog_boom_time">Boom time :</string>
+    <string name="preview_dialog_ringtone">Ringtone :</string>
+    <string name="preview_dialog_message">Message :</string>
+    <string name="deepSleepOptionTitle">Deep sleep wake up</string>
+    <string name="deepSleepOptionDescription">La opción DeepWakeUp te ofrece una manera de despertarte tranquilamente como lo hacía de forma natural. Simplemente reproduce música tranquila de fondo y aumenta lentamente el volumen.</string>
+    <string name="contentDescriptionSleepIcon" translatable="false">icono de sueño zzz</string>
+    <string name="preview_dialog_deep_wake_up">Sueño profundo:</string>
+    <string name="deepWakeUpSwitchText">Do you want to try? </string>
+    <string name="tasksExplanationText">Move all circles one by one from lowest number to next highest number.</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sut">SUT</string>
+    <string name="sun">SUN</string>
+    <string name="tasks_dragging_example" translatable="false">tasks dragging example</string>
+    <string name="forward" translatable="false">Avanzar</string>
+    <string name="backToMain" translatable="false">Regresar al menu</string>
+    <string name="don_t_show_it_again">Don\'t show it again?</string>
+    <string name="shortSnoozeClickMessage">Para posponer la alarma, haz un clic un poco más largo.</string>
+    <string name="positiveButtonText">entiendo</string>
+    <string name="explanationDialogTitle">¿Cómo apagar alarma?</string>
+    <string name="noTasksToDisplayDialogTitle">Hay un problema</string>
+    <string name="alarmActivatedMessage">Se activó la alarma</string>
+    <string name="noTasksToDisplayDialogMessage">Ocurrieron algunos problemas al generar tareas aleatorias para usted.</string>
+    <string name="noTasksToDisplayDialogPosButton">intentar de nuevo</string>
+    <string name="noTasksToDisplayDialogNegButton">detener alarma</string>
+</resources>
